@@ -1,2 +1,3 @@
 # aRcOfMontara.github.io
-aRcOfMontara.weebly.com
+
+Forwards to [aRcOfMontara.weebly.com](https://aRcOfMontara.weebly.com)
